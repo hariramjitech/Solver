@@ -1,0 +1,6 @@
+[
+    { "name": "Force", "equation": "F = m × a" },
+    { "name": "Kinetic Energy", "equation": "KE = 1/2 × m × v^2" },
+    { "name": "Potential Energy", "equation": "PE = m × g × h" }
+  ]
+  
